@@ -1,6 +1,6 @@
 # windows-xp-sim
 
-Windows XP simulator including Notepad, Snake, Paint, Calculator, and third-party Python script execution.
+Windows XP simulator including Notepad, Snake, Paint, Calculator, and third-party Python script execution. Developed for CMU 15-112 Fall 2018 Final Project.
 
 ## Development
 
