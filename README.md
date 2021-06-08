@@ -12,13 +12,13 @@ source env/bin/activate
 This activates the virtual env and dependencies can now be installed local to the repository.
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 To run the simulator:
 
 ```
-python3 main.py
+python main.py
 ```
 
 ## General Description
